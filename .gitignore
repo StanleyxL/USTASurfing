@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+/ISSCommon/GoogleSheet/GS_Client.json
+/.gitignore.bak
