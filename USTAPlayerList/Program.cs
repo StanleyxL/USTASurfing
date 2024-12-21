@@ -56,7 +56,7 @@ class WebCrawler
                 string url = "Start";// Console.ReadLine();
                 while (url?.ToUpper() != "END" )// OneTournament:
                 {
-                    Console.WriteLine("try more Tournament or enter END to stop:");
+                    Console.WriteLine("Please type more Tournament ID or Update to run results into watchlist \n or enter END to stop:");
                     url = Console.ReadLine();
                     if(url.Equals("update", StringComparison.OrdinalIgnoreCase))//?.ToUpper() == "END")
                     {
