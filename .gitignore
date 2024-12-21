@@ -2,4 +2,6 @@ bin/
 obj/
 .vs/
 /ISSCommon/GoogleSheet/GS_Client.json
+/Releases/USTASurfingWatchList/Chrome
+/Releases/USTASurfingWatchList/ChromeHeadlessShell
 /.gitignore.bak

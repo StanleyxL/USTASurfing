@@ -1,0 +1,24 @@
+{
+  "MainApp": "Player", // "USTASearch", "Player","Tournament",  "Facility", "Coach", "Event", "News", "Ranking, 
+  "USTASearchFilter": {
+    "Distance": 3000,
+    "Gender": "Boys",
+    "Age": [ "16U" ],
+    "Level": [ "3", "5" ],
+    "TournamentType": [ "Single", "Double" ],
+    // "StartDate": "Today",
+    "DateRange": 30
+
+
+  }
+}
+/*
+  public int Distance=100;
+        public string Gender="Boy";
+        public List<string> Age=["16U", "18U"];
+        public List<string> Level=["3","4","5"];
+        public List<string> TournamentType = ["Single"];//, "Double"],
+        //public string StartDate = "Today";
+        public DateTime StartDate = DateTime.Now;
+        public int DateRange = 30;
+*/

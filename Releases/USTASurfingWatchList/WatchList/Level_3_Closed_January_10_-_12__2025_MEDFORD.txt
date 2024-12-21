@@ -1,0 +1,20 @@
+0|DHARMA, Prahalad |  1497
+1|HE, Ryan |  1280
+2|KEIPER, Zachary |  805
+3|GOLDOVSKY, Michael |  796
+4|RAMACHANDRAN, Rohan |  787
+5|JIN, David |  750
+6|PEREYRA, Juan Miguel |  661
+7|CHERVONEVA, Benjamin |  640
+8|HUANG, Logan |  596
+9|KUMAR, Shriyan |  483
+10|PATEL, Aashil |  444
+11|GARCIA, Braylen |  442
+12|CHENG, Jerry |  413
+13|NEILLY, Rj |  349
+14|PALANDJIAN, Ryan |  266
+15|GANGRADE, Shubh |  257
+16|TULLOCH, Braden |  218
+17|TULLOCH, Connor |  170
+18|TULLOCH, Gavin |  100
+19|FD39CB7D-9780-47EF-95B6-26844EB39AEE |  -19
